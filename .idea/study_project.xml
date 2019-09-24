@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Files come in all possible formats: we usually see it specified in their names. In any case, information about the type is always contained within the file: in this project, you will learn to extract this info. Write a program that can analyze a file and determine its type.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/64&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="File Type Analyzer" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="343" />
+                <option name="stepId" value="5485" />
+                <option name="title" value="Is this a PDF?" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="344" />
+                <option name="stepId" value="5486" />
+                <option name="title" value="KMP algorithm" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="345" />
+                <option name="stepId" value="5487" />
+                <option name="title" value="Wanted!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="346" />
+                <option name="stepId" value="5488" />
+                <option name="title" value="A question of priorities" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="347" />
+                <option name="stepId" value="5489" />
+                <option name="title" value="Rabin-Karp" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="172" />
+                      <option name="theoryId" value="3635" />
+                      <option name="title" value="Files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="173" />
+                      <option name="theoryId" value="3636" />
+                      <option name="title" value="Reading files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="177" />
+                      <option name="theoryId" value="3652" />
+                      <option name="title" value="Writing files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="266" />
+                      <option name="theoryId" value="4953" />
+                      <option name="title" value="Computer algorithms" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="263" />
+                      <option name="theoryId" value="4991" />
+                      <option name="title" value="The big O notation" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="157" />
+                      <option name="theoryId" value="3611" />
+                      <option name="title" value="The concept of patterns" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="322" />
+                      <option name="theoryId" value="5141" />
+                      <option name="title" value="String basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="321" />
+                      <option name="theoryId" value="5194" />
+                      <option name="title" value="Searching a substring" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="469" />
+                      <option name="theoryId" value="6413" />
+                      <option name="title" value="Prefix function" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="339" />
+                      <option name="theoryId" value="6454" />
+                      <option name="title" value="Knuth-Morris-Pratt algorithm" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="379" />
+                      <option name="theoryId" value="5712" />
+                      <option name="title" value="Searching a substring in Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="380" />
+                      <option name="theoryId" value="5725" />
+                      <option name="title" value="Knuth-Morris-Pratt algorithm in Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="159" />
+                      <option name="theoryId" value="3556" />
+                      <option name="title" value="Strategy" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="37" />
+                      <option name="theoryId" value="3525" />
+                      <option name="title" value="Overloading" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="120" />
+                      <option name="theoryId" value="3538" />
+                      <option name="title" value="Multiple constructors" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="127" />
+                      <option name="theoryId" value="3588" />
+                      <option name="title" value="The keyword super" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="5" />
+                      <option name="theoryId" value="3572" />
+                      <option name="title" value="Hiding and overriding" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="491" />
+                      <option name="theoryId" value="6692" />
+                      <option name="title" value="Protected modifier" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="128" />
+                      <option name="theoryId" value="3585" />
+                      <option name="title" value="Referencing subclass objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="2" />
+                      <option name="theoryId" value="3587" />
+                      <option name="title" value="Polymorphism" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="124" />
+                      <option name="theoryId" value="3615" />
+                      <option name="title" value="Interface" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="267" />
+                      <option name="theoryId" value="5161" />
+                      <option name="title" value="Data structures" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="346" />
+                      <option name="theoryId" value="5357" />
+                      <option name="title" value="Dynamic array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="164" />
+                      <option name="theoryId" value="1945" />
+                      <option name="title" value="NPE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="62" />
+                      <option name="theoryId" value="3600" />
+                      <option name="title" value="Basics of multithreading" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="295" />
+                      <option name="theoryId" value="4875" />
+                      <option name="title" value="Threads as objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="294" />
+                      <option name="theoryId" value="4876" />
+                      <option name="title" value="Custom threads" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="72" />
+                      <option name="theoryId" value="3619" />
+                      <option name="title" value="Thread management" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="297" />
+                      <option name="theoryId" value="4882" />
+                      <option name="title" value="Exceptions in threads" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="296" />
+                      <option name="theoryId" value="4881" />
+                      <option name="title" value="Interruptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="299" />
+                      <option name="theoryId" value="4895" />
+                      <option name="title" value="Executors" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="167" />
+                      <option name="theoryId" value="3492" />
+                      <option name="title" value="Generic programming" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="43" />
+                      <option name="theoryId" value="3591" />
+                      <option name="title" value="Basics of collections" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="166" />
+                      <option name="theoryId" value="3567" />
+                      <option name="title" value="ArrayList" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="42" />
+                      <option name="theoryId" value="3581" />
+                      <option name="title" value="List" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="48" />
+                      <option name="theoryId" value="3601" />
+                      <option name="title" value="Functional interfaces and lambda expressions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="300" />
+                      <option name="theoryId" value="4905" />
+                      <option name="title" value="Callable and Future" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="152" />
+                      <option name="theoryId" value="3506" />
+                      <option name="title" value="Ternary operator" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="97" />
+                      <option name="theoryId" value="3602" />
+                      <option name="title" value="Iterating over arrays" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="122" />
+                      <option name="theoryId" value="3597" />
+                      <option name="title" value="Abstract class" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="75" />
+                      <option name="theoryId" value="3564" />
+                      <option name="title" value="Anonymous classes" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="410" />
+                      <option name="theoryId" value="5984" />
+                      <option name="title" value="Recursion basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="274" />
+                      <option name="theoryId" value="4954" />
+                      <option name="title" value="The sorting problem" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="269" />
+                      <option name="theoryId" value="4963" />
+                      <option name="title" value="Insertion sort" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="273" />
+                      <option name="theoryId" value="4964" />
+                      <option name="title" value="Merge sort" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="140" />
+                      <option name="theoryId" value="3529" />
+                      <option name="title" value="Insertion sort in Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="143" />
+                      <option name="theoryId" value="3527" />
+                      <option name="title" value="Merge sort in Java" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="4">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="472" />
+                      <option name="theoryId" value="6420" />
+                      <option name="title" value="String hashing" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="338" />
+                      <option name="theoryId" value="5267" />
+                      <option name="title" value="Rabin-Karp algorithm" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="381" />
+                      <option name="theoryId" value="5719" />
+                      <option name="title" value="Rabin-Karp algorithm in Java" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Files come in all possible formats: we usually see it specified in their names. In any case, information about the type is always contained within the file: in this project, you will learn to extract this info. Write a program that can analyze a file and determine its type." />
+              <option name="id" value="64" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/210127/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="File Type Analyzer" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="4" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="File Type Analyzer" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this project, you will learn how to make a tool for determining file type. It's not like determining file type based on the extension of the file; the filename can be random. Actually, many file types contain special byte sequences that make it easy to determine them. You’ll start from a simple program which can only search for an occurrence of the specific pattern inside a single file and gradually turn it into a more practical solution which can check hundreds and thousands of files against a huge pattern set. Each pattern has information about a file type which will be reported to the user when there is a successful match.&lt;/p&gt;&#10;&#10;&lt;p&gt;This approach is widely used in many different applications. For example the &lt;a href=&quot;https://en.wikipedia.org/wiki/File_(command)&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Unix “file” tool&lt;/a&gt; relies on a sophisticated “magic” database (it consists of a pattern set written in specific language), antivirus and malware-detection tools search the malicious signatures inside user’s files, and firewalls do the same with a system’s network traffic (as well as DPI systems). &lt;/p&gt;&#10;&#10;&lt;p&gt;Let’s begin with an elementary prototype of our file type checker. Write a program which accepts a pattern and its file type and matches the pattern against some file.&lt;/p&gt;&#10;&#10;&lt;p&gt;Here we deﬁne pattern as a pair of two strings: {P, R}, where P is a pattern itself and R is a resulting ﬁle type which corresponds to pattern P. If the string P is found in the ﬁle then your program should return R as ﬁle type. For example, for the following pattern&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt; {&quot;%PDF-&quot;, &quot;PDF document&quot;} &lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;the program will search for a &lt;code&gt;&quot;%PDF-&quot;&lt;/code&gt; in a ﬁle’s binary data and if found successfully will determine ﬁle type as &lt;code&gt;&quot;PDF document&quot;&lt;/code&gt;. Note that the pattern can be anywhere in the file, not just at the start of the file. You can see here in the row with &quot;Magic number&quot; there is the &lt;code&gt;&quot;%PDF&quot;&lt;/code&gt; pattern, but actually after this pattern, the  &lt;code&gt;&quot;-&quot;&lt;/code&gt; symbol always appears,&lt;strong&gt; &lt;/strong&gt;so the pattern described above is stricter.&lt;/p&gt;&#10;&#10;&lt;p&gt;You can use &lt;a href=&quot;https://www.codejava.net/java-se/file-io/how-to-read-and-write-binary-files-in-java&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;this&lt;/a&gt; link to see how to open a file in binary.&lt;/p&gt;&#10;&#10;&lt;p&gt;Write a program which accepts a ﬁle name and pattern and searches for an occurrence of the pattern in this ﬁle. If the pattern matched at least once the program should report its type. If there were no matches, print “Unknown ﬁle type”.&lt;/p&gt;&#10;&#10;&lt;p&gt;Your program should accept three arguments: the file to check (relative path), the pattern string (P), and the result string (R).&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;The examples below show how your output might look.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main doc.pdf &quot;%PDF-&quot; &quot;PDF document&quot;&#10;PDF document&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main picture.jpg &quot;%PDF-&quot; &quot;PDF document&quot;&#10;Unknown file type&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/64/stages/343/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5485" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Is this a PDF?" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/analyzer/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/Main.java" />
+                                <option name="text" value="package analyzer;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/FileTypeAnalyzerTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/FileTypeAnalyzerTest.java" />
+                                <option name="text" value="&#10;import analyzer.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;class Clue {&#10;    String response;&#10;    String feedback;&#10;&#10;    Clue(String response, String feedback) {&#10;        this.response = response;&#10;        this.feedback = feedback;&#10;    }&#10;}&#10;&#10;public class FileTypeAnalyzerTest extends BaseStageTest&lt;Clue&gt; {&#10;    public FileTypeAnalyzerTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;doc.pdf&quot;, &quot;%PDF-&quot;, &quot;PDF document&quot;})&#10;                .addFile(&quot;doc.pdf&quot;, &quot;PFDF%PDF-PDF&quot;)&#10;                .setAttach(new Clue(&quot;PDF document&quot;, &quot;The file had following content: &quot; +&#10;                    &quot;PFDF%PDF-PDF and was analyzed for pattern %PDF-&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;doc.txt&quot;, &quot;%PDF-&quot;, &quot;PDF document&quot;})&#10;                .addFile(&quot;doc.txt&quot;, &quot;PFDF%PDF-PDF&quot;)&#10;                .setAttach(new Clue(&quot;PDF document&quot;, &quot;The file had following content: &quot; +&#10;                    &quot;PFDF%PDF-PDF and was analyzed for pattern %PDF-&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;doc.pdf&quot;, &quot;%PDF-&quot;, &quot;PDF document&quot;})&#10;                .addFile(&quot;doc.pdf&quot;, &quot;PFDFPDF&quot;)&#10;                .setAttach(new Clue(&quot;Unknown file type&quot;, &quot;The file had following content: &quot; +&#10;                    &quot;PFDFPDF and was analyzed for pattern %PDF-&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;doc.txt&quot;, &quot;%PDF-&quot;, &quot;PDF document&quot;})&#10;                .addFile(&quot;doc.txt&quot;, &quot;PFDFPDF&quot;)&#10;                .setAttach(new Clue(&quot;Unknown file type&quot;, &quot;The file had following content: &quot; +&#10;                    &quot;PFDFPDF and was analyzed for pattern %PDF-&quot;)),&#10;&#10;&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;doc.pdf&quot;, &quot;%DOC-&quot;, &quot;DOC document&quot;})&#10;                .addFile(&quot;doc.pdf&quot;, &quot;PFDF%DOC-PDF&quot;)&#10;                .setAttach(new Clue(&quot;DOC document&quot;, &quot;The file had following content: &quot; +&#10;                    &quot;PFDF%PDF-PDF and was analyzed for pattern %PDF-&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;doc.txt&quot;, &quot;%DOC-&quot;, &quot;DOC document&quot;})&#10;                .addFile(&quot;doc.txt&quot;, &quot;PFDF%DOC-PDF&quot;)&#10;                .setAttach(new Clue(&quot;DOC document&quot;, &quot;&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;doc.pdf&quot;, &quot;%DOC-&quot;, &quot;DOC document&quot;})&#10;                .addFile(&quot;doc.pdf&quot;, &quot;PFDFPDF&quot;)&#10;                .setAttach(new Clue(&quot;Unknown file type&quot;, &quot;&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;doc.txt&quot;, &quot;%DOC-&quot;, &quot;DOC document&quot;})&#10;                .addFile(&quot;doc.txt&quot;, &quot;PFDFPDF&quot;)&#10;                .setAttach(new Clue(&quot;Unknown file type&quot;, &quot;&quot;))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        String actual = reply.strip();&#10;        String expected = clue.response.strip();&#10;        return new CheckResult(actual.equals(expected),&#10;            clue.feedback + &quot;\nExpected result: &quot; + expected +&#10;                &quot;\nActual result: &quot; + actual);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/doc.pdf">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/doc.pdf" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1568217728000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Improve your file type checker’s pattern match logic by rewriting the pattern search algorithm. Use some of the advanced algorithms you have learned so far like the Knuth-Morris-Pratt algorithm. Check your program’s search performance with some huge file. Compare your improved search engine with a naive implementation. If you’re a Linux user, you can use &lt;code&gt;&quot;time&quot;&lt;/code&gt; for measuring execution time, (see &lt;code&gt;man time&lt;/code&gt; for details). Otherwise, you can use &lt;code&gt;nanoTime()&lt;/code&gt; from the &lt;code&gt;java.lang.System&lt;/code&gt; class. Check the &lt;a href=&quot;https://docs.oracle.com/javase/10/docs/api/java/lang/System.html#nanoTime()&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;official documentation&lt;/a&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;Your program should accept another argument, that represents an algorithm - a naive implementation that you implemented in the previous step marked as &lt;code&gt;--naive&lt;/code&gt; and KMP algorithm marked as &lt;code&gt;--KMP&lt;/code&gt;. Other arguments should be parsed after this one - file name, pattern and file type.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;First, we checked the naive implementation, and it took roughly 5 seconds. Then KMP showed 5 times better performance. You should expect similar behavior from your program.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main --naive huge_doc.pdf &quot;%PDF-&quot; &quot;PDF document&quot;&#10;PDF document&#10;It took 5.011 seconds&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main --KMP huge_doc.pdf &quot;%PDF-&quot; &quot;PDF document&quot;&#10;PDF document&#10;It took 1.037 seconds&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main --naive pic.png &quot;%PDF-&quot; &quot;PDF document&quot;&#10;Unknown file type&#10;It took 3.641 seconds&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main --KMP pic.png &quot;%PDF-&quot; &quot;PDF document&quot;&#10;Unknown file type&#10;It took 0.469 seconds&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/64/stages/344/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5486" />
+                      <option name="index" value="2" />
+                      <option name="name" value="KMP algorithm" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Clue.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Clue.java" />
+                                <option name="text" value="public class Clue {&#10;    public String response;&#10;&#10;    public Clue(String response) {&#10;        this.response = response;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ContainsSearch.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ContainsSearch.java" />
+                                <option name="text" value="public class ContainsSearch {&#10;    public static long searchForPattern(String[] args) {&#10;        String pattern = args[1];&#10;        String patternName = args[2];&#10;        String fileContent = args[0];&#10;        String unknownFileType = &quot;Unknown file type&quot;;&#10;        long timeStart = System.nanoTime();&#10;        if (fileContent.contains(pattern) /*!kmpSearch(fileContent.toString(), pattern).isEmpty()*/) {&#10;            return System.nanoTime() - timeStart;&#10;        }&#10;        return 0;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/MainTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/MainTest.java" />
+                                <option name="text" value="&#10;import analyzer.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import org.junit.BeforeClass;&#10;&#10;import java.util.List;&#10;&#10;public class MainTest extends BaseStageTest&lt;Clue&gt; {&#10;    static String largeContent;&#10;&#10;    String pdf = &quot;PDF document&quot;;&#10;    String doc = &quot;DOC document&quot;;&#10;    String unknown = &quot;Unknown file type&quot;;&#10;    String file = &quot;doc.pdf&quot;;&#10;&#10;    public MainTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[] {&#10;                        &quot;--naive&quot;,&#10;                        file,&#10;                        &quot;%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF-&quot;,&#10;                        pdf&#10;                    })&#10;                .addFile(file, largeContent)&#10;                .setAttach(new Clue(pdf)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[] {&#10;                        &quot;--KMP&quot;,&#10;                        file,&#10;                        &quot;%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF-&quot;,&#10;                        doc&#10;                    })&#10;                .addFile(file, largeContent)&#10;                .setAttach(new Clue(doc)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[] {&#10;                        &quot;--naive&quot;,&#10;                        file,&#10;                        &quot;%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF+&quot;,&#10;                        unknown&#10;                    })&#10;                .addFile(file, largeContent)&#10;                .setAttach(new Clue(unknown)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[] {&#10;                        &quot;--KMP&quot;,&#10;                        file,&#10;                        &quot;%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF%PDF+&quot;,&#10;                        unknown&#10;                    })&#10;                .addFile(file, largeContent)&#10;                .setAttach(new Clue(unknown))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        reply = reply.strip();&#10;&#10;        if (reply.contains(doc) &amp;&amp; reply.contains(pdf)) {&#10;            return CheckResult.FALSE(&quot;There are both \&quot;&quot; + doc + &quot;\&quot; and \&quot;&quot; + pdf + &quot;\&quot;&quot; +&#10;                &quot; in output, should be only one of them&quot;);&#10;        } else if (reply.contains(doc) &amp;&amp; reply.contains(unknown)) {&#10;            return CheckResult.FALSE(&quot;There are both \&quot;&quot; + doc + &quot;\&quot; and \&quot;&quot; + unknown + &quot;\&quot;&quot; +&#10;                &quot; in output, should be only one of them&quot;);&#10;        } else if (reply.contains(pdf) &amp;&amp; reply.contains(unknown)) {&#10;            return CheckResult.FALSE(&quot;There are both \&quot;&quot; + pdf + &quot;\&quot; and \&quot;&quot; + unknown + &quot;\&quot;&quot; +&#10;                &quot; in output, should be only one of them&quot;);&#10;        }&#10;&#10;        if (!reply.contains(clue.response)) {&#10;            return CheckResult.FALSE(&quot;Your output does not contain \&quot;&quot; + clue.response + &quot;\&quot;, but should.&quot; +&#10;                &quot;\n\nYour output:\n&quot; + reply);&#10;        }&#10;&#10;        if (!reply.contains(&quot;seconds&quot;)) {&#10;            return CheckResult.FALSE(&quot;Your output does not contain \&quot;seconds\&quot;, but should.&quot; +&#10;                &quot;\n\nYour output:\n&quot; + reply);&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;    @BeforeClass&#10;    public static void setLargeContent() {&#10;&#10;        StringBuilder content = new StringBuilder();&#10;&#10;        for (int i = 0; i&lt; 6000; i++) {&#10;            content.append(&quot;%PDF&quot;);&#10;        }&#10;&#10;        content.append(&quot;%PDF-&quot;);&#10;        largeContent = content.toString();&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/NaiveSearch.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/NaiveSearch.java" />
+                                <option name="text" value="&#10;&#10;public class NaiveSearch {&#10;    public static long searchForPattern(String[] args) {&#10;        String pattern = args[1];&#10;        String fileContent = args[0];&#10;        long timeStart = System.nanoTime();&#10;        if (naiveSearch(fileContent, pattern)) {&#10;            return System.nanoTime() - timeStart;&#10;        }&#10;        return 0;&#10;    }&#10;&#10;&#10;    public static boolean naiveSearch (String text, String pattern) {&#10;        int textLength = text.length();&#10;        int patternLength = pattern.length();&#10;        for (int i = 0; i&lt;textLength - patternLength + 1; i++) {&#10;            for (int j = 0; j&lt; patternLength; j++) {&#10;                if (!(text.charAt(i+j) == pattern.charAt(j))) {&#10;                    break;&#10;                }&#10;                else if (j == patternLength -1) return true;&#10;            }&#10;        }&#10;        return false;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/Main.java" />
+                                <option name="text" value="package analyzer;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/arguments/Arguments.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/arguments/Arguments.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/arguments/ArgumentsParser.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/arguments/ArgumentsParser.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/SearchStrategy.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/strategy/SearchStrategy.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Naive.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/strategy/Naive.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Kmp.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/strategy/Kmp.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Resolver.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/strategy/Resolver.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561924031000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Let’s make another improvement. The pattern search engine is pretty fast now. However, if we want to check multiple files we should pass them to the checker one by one and match them consequently. Parallelize your checker to handle multiple files.&lt;/p&gt;&#10;&#10;&lt;p&gt;Now your search engine must deal with multiple files. Hint: your program can be organized as several workers. Each worker is equivalent (logically) to the single-threaded pattern matcher: it takes several files and matches them consequently using the searching algorithm. The answers of each worker will be aggregated as the total execution result.&lt;/p&gt;&#10;&#10;&lt;p&gt;Your program should accept two strings: P and R as the first two arguments.P and R represents the pattern to check. Then it should take a folder’s path which contains all of the files to be checked by your program.&lt;/p&gt;&#10;&#10;&lt;p&gt;For this stage, you should use only the KMP algorithm.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main &quot;-----BEGIN\ CERTIFICATE-----&quot; &quot;PEM certificate&quot; test_files&#10;file.pem: PEM certificate&#10;doc_1.docx: Unknown file type&#10;doc_2.pdf: Unknown file type&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main &quot;%PDF-&quot; &quot;PDF document&quot; test_files&#10;file.pem: Unknown file type&#10;doc_1.docx: Unknown file type&#10;doc_2.pdf: PDF document&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/64/stages/345/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5487" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Wanted!" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/MainTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="test/MainTest.java" />
+                                <option name="text" value="&#10;import analyzer.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import org.junit.AfterClass;&#10;import org.junit.Assert;&#10;import org.junit.BeforeClass;&#10;&#10;import java.io.File;&#10;import java.io.IOException;&#10;import java.lang.management.ManagementFactory;&#10;import java.nio.file.Files;&#10;import java.nio.file.Paths;&#10;import java.util.List;&#10;&#10;public class MainTest extends BaseStageTest&lt;Clue&gt; {&#10;    private static final String CURRENT_DIR = System.getProperty(&quot;user.dir&quot;) + File.separator;&#10;    private static int startedThreadCount = 0;&#10;&#10;    public MainTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            //Testing basic cases&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;test_files&quot;, &quot;%PDF-&quot;, &quot;PDF document&quot;})&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc.pdf&quot;, &quot;PFDF%PDF-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;text.txt&quot;, &quot;PF%PDF-PDFABC&quot;)&#10;                .setAttach(new Clue(&quot;doc.pdf: PDF document\n&quot; +&#10;                    &quot;text.txt: PDF document&quot;, 2, &quot;The files had following content: &quot; +&quot;\n&quot; +&#10;                    &quot;\&quot;PFDF%PDF-PDF\&quot;, \&quot;PF%PDF-PDFABC\&quot; and were analyzed for pattern \&quot;%PDF-\&quot;&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;test_files&quot;, &quot;-----BEGIN\\CERTIFICATE-----&quot;, &quot;PEM certificate&quot;})&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;file.pem&quot;, &quot;PF-----BEGIN\\CERTIFICATE-----DF%PDF-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;file.pdf&quot;, &quot;PF%P-----BEGIN\\CERTIFICATE-----DF-PDF&quot;)&#10;                .setAttach(new Clue(&quot;file.pdf: PEM certificate\n&quot; +&#10;                    &quot;file.pem: PEM certificate&quot;, 2, &quot;&quot;)),&#10;&#10;            //Testing with only one file in the directory&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;test_files&quot;, &quot;-----BEGIN\\CERTIFICATE-----&quot;, &quot;PEM certificate&quot;})&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;the_only_file.pem&quot;, &quot;PF-----BEGIN\\CERTIFICATE-----DF%PDF-PDF&quot;)&#10;                .setAttach(new Clue (&quot;the_only_file.pem: PEM certificate&quot;, 1, &quot;&quot;)),&#10;&#10;            //Testing with 10 files in the directory&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {&quot;test_files&quot;, &quot;%txt-&quot;, &quot;TXT document&quot;})&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc0.pdf&quot;, &quot;PFDF%PDF%txt-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc1.pdf&quot;, &quot;PF%PDF%txt-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc2.pdf&quot;, &quot;PFDF%PDF%txt-PF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc3.pdf&quot;, &quot;PF%PF%txt-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc4.pdf&quot;, &quot;PFDF%PDF%txt-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc5.pdf&quot;, &quot;PF%PDF%txt-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc6.pdf&quot;, &quot;PFF%PDF%txt-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc7.pdf&quot;, &quot;PF%DF%txt-PDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc8.pdf&quot;, &quot;PFDF%PDFPDF&quot;)&#10;                .addFile(&quot;test_files&quot;+File.separator+&quot;doc9.txt&quot;, &quot;PF%PDF%PDF&quot;)&#10;                .setAttach(new Clue(&quot;doc0.pdf: TXT document\n&quot; +&#10;                    &quot;doc1.pdf: TXT document\n&quot; +&#10;                    &quot;doc2.pdf: TXT document\n&quot; +&#10;                    &quot;doc3.pdf: TXT document\n&quot; +&#10;                    &quot;doc4.pdf: TXT document\n&quot; +&#10;                    &quot;doc5.pdf: TXT document\n&quot; +&#10;                    &quot;doc6.pdf: TXT document\n&quot; +&#10;                    &quot;doc7.pdf: TXT document\n&quot; +&#10;                    &quot;doc8.pdf: Unknown file type\n&quot; +&#10;                    &quot;doc9.txt: Unknown file type&quot;, 10, &quot;&quot;))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        checkThreads(clue);&#10;        String actual = reply.strip();&#10;        if (actual.isEmpty()) {&#10;            actual = &quot;No output (check if you exited &quot; +&#10;                &quot;from main too early, you should wait until all threads are finishes)&quot;;&#10;        }&#10;        String expected = clue.output;&#10;        return new CheckResult(actual.equals(expected),&#10;            clue.feedback + &quot;\nExpected: \n&quot; + expected&#10;            + &quot;\nActual: \n&quot; + actual);&#10;    }&#10;&#10;    public void checkThreads(Clue clue) {&#10;        startedThreadCount += clue.threadsStarted;&#10;        long currentThreads = ManagementFactory.getThreadMXBean().getTotalStartedThreadCount();&#10;        Assert.assertTrue(&#10;            &quot;There were not enough Threads started, &quot; +&#10;                &quot;you should process each file in a different Thread&quot;,&#10;            startedThreadCount &lt;= currentThreads);&#10;    }&#10;&#10;    @BeforeClass&#10;    public static void generateTestFilesDirectory() {&#10;        try {&#10;            Files.deleteIfExists(Paths.get(CURRENT_DIR + &quot;test_files&quot;));&#10;        }&#10;        catch (IOException ex) {&#10;            ex.printStackTrace();&#10;        }&#10;        try {&#10;            Files.createDirectory(Paths.get(CURRENT_DIR + &quot;test_files&quot;));&#10;        }&#10;        catch (IOException ex) {&#10;            ex.printStackTrace();&#10;        }&#10;    }&#10;&#10;    @BeforeClass&#10;    public static void countThreadsBefore() {&#10;        startedThreadCount += ManagementFactory.getThreadMXBean().getTotalStartedThreadCount();&#10;    }&#10;&#10;    @AfterClass&#10;    public static void deleteTestFilesDirectory() {&#10;        try {&#10;            Files.deleteIfExists(Paths.get(CURRENT_DIR + &quot;test_files&quot;));&#10;        }&#10;        catch (IOException ex) {&#10;            ex.printStackTrace();&#10;        }&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/Main.java" />
+                                <option name="text" value="package analyzer;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/arguments/ArgumentsParser.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/arguments/ArgumentsParser.java" />
+                                <option name="text" value="package analyzer.arguments;&#10;&#10;public class ArgumentsParser {&#10;    public static Arguments parse(String[] args) {&#10;        if (args.length &lt; 4) {&#10;            throw new RuntimeException(&quot;Please provide all required arguments&quot;);&#10;        }&#10;&#10;        Arguments arguments = new Arguments();&#10;        arguments.setAlgorithm(args[0]);&#10;        arguments.setFilePath(args[1]);&#10;        arguments.setPattern(args[2]);&#10;        arguments.setExpectedResult(args[3]);&#10;&#10;        return arguments;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Kmp.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/Kmp.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;public class Kmp implements SearchStrategy {&#10;&#10;    @Override&#10;    public boolean contains(String text, String pattern) {&#10;        return KMPSearch(text, pattern).size() &gt; 0;&#10;    }&#10;&#10;    private List&lt;Integer&gt; KMPSearch(String text, String pattern) {&#10;        /* 1 */&#10;        int[] prefixFunc = prefixFunction(pattern);&#10;        ArrayList&lt;Integer&gt; occurrences = new ArrayList&lt;Integer&gt;();&#10;        int j = 0;&#10;        /* 2 */&#10;        for (int i = 0; i &lt; text.length(); i++) {&#10;            /* 3 */&#10;            while (j &gt; 0 &amp;&amp; text.charAt(i) != pattern.charAt(j)) {&#10;                j = prefixFunc[j - 1];&#10;            }&#10;            /* 4 */&#10;            if (text.charAt(i) == pattern.charAt(j)) {&#10;                j += 1;&#10;            }&#10;            /* 5 */&#10;            if (j == pattern.length()) {&#10;                occurrences.add(i - j + 1);&#10;                j = prefixFunc[j - 1];&#10;            }&#10;        }&#10;        /* 6 */&#10;        return occurrences;&#10;    }&#10;&#10;    private int[] prefixFunction(String str) {&#10;        /* 1 */&#10;        int[] prefixFunc = new int[str.length()];&#10;&#10;        /* 2 */&#10;        for (int i = 1; i &lt; str.length(); i++) {&#10;            /* 3 */&#10;            int j = prefixFunc[i - 1];&#10;&#10;            while (j &gt; 0 &amp;&amp; str.charAt(i) != str.charAt(j)) {&#10;                j = prefixFunc[j - 1];&#10;            }&#10;&#10;            /* 4 */&#10;            if (str.charAt(i) == str.charAt(j)) {&#10;                j += 1;&#10;            }&#10;&#10;            /* 5 */&#10;            prefixFunc[i] = j;&#10;        }&#10;&#10;        /* 6 */&#10;        return prefixFunc;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Naive.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/Naive.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;public class Naive implements SearchStrategy {&#10;    @Override&#10;    public boolean contains(String text, String pattern) {&#10;        if (text.length() &lt; pattern.length()) {&#10;            return false;&#10;        }&#10;&#10;        for (int i = 0; i &lt; text.length() - pattern.length() + 1; i++) {&#10;            boolean patternIsFound = true;&#10;&#10;            for (int j = 0; j &lt; pattern.length(); j++) {&#10;                if (text.charAt(i + j) != pattern.charAt(j)) {&#10;                    patternIsFound = false;&#10;                    break;&#10;                }&#10;            }&#10;&#10;            if (patternIsFound) {&#10;                return true;&#10;            }&#10;        }&#10;&#10;        return false;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Resolver.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/Resolver.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;import analyzer.arguments.Arguments;&#10;&#10;public class Resolver {&#10;    public static SearchStrategy resolve(Arguments arguments) {&#10;        if (&quot;--KMP&quot;.equals(arguments.getAlgorithm())) {&#10;            return new Kmp();&#10;        }&#10;&#10;        return new Naive();&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/arguments/Arguments.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/arguments/Arguments.java" />
+                                <option name="text" value="package analyzer.arguments;&#10;&#10;public class Arguments {&#10;    private String algorithm;&#10;&#10;    private String filePath;&#10;&#10;    private String pattern;&#10;&#10;    private String expectedResult;&#10;&#10;    public String getAlgorithm() {&#10;        return algorithm;&#10;    }&#10;&#10;    public void setAlgorithm(String algorithm) {&#10;        this.algorithm = algorithm;&#10;    }&#10;&#10;    public String getFilePath() {&#10;        return filePath;&#10;    }&#10;&#10;    public void setFilePath(String filePath) {&#10;        this.filePath = filePath;&#10;    }&#10;&#10;    public String getPattern() {&#10;        return pattern;&#10;    }&#10;&#10;    public void setPattern(String pattern) {&#10;        this.pattern = pattern;&#10;    }&#10;&#10;    public String getExpectedResult() {&#10;        return expectedResult;&#10;    }&#10;&#10;    public void setExpectedResult(String expectedResult) {&#10;        this.expectedResult = expectedResult;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/SearchStrategy.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/SearchStrategy.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;public interface SearchStrategy {&#10;    public boolean contains(String text, String pattern);&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test_files/text.txt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test_files/text.txt" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test_files/doc.pdf">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test_files/doc.pdf" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561924032000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;It is almost useless to have a pattern base with only one pattern. We need more. We can take patterns one by one from some storage and match them until we find a successful match. But what should we do if several patterns match successfully?&lt;/p&gt;&#10;&#10;&lt;p&gt;Extend your program to make it match several patterns against each file. Implement some prioritizing scheme for patterns to prevent ambiguity in case of multiple matches.&lt;/p&gt;&#10;&#10;&lt;p&gt;The &lt;code&gt;patterns.db&lt;/code&gt; consist of patterns with their priorities. You can download it &lt;a href=&quot;https://stepik.org/media/attachments/lesson/210127/patterns.db&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;. For example:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;4;&quot;PK&quot;;&quot;Zip archive&quot;&#10;7;&quot;word/_rels&quot;;&quot;MS Office Word 2007+&quot;&#10;7;&quot;ppt/_rels&quot;;&quot;MS Office PowerPoint 2007+&quot;&#10;7;&quot;xl/_rels&quot;;&quot;MS Office Excel 2007+&quot;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Higher value means higher priority. In this example, the &lt;code&gt;&quot;Zip archive&quot;&lt;/code&gt; is a container for multiple files. But Microsoft Office files also stored as Zip archives, you can clearly see this if you rename file &lt;code&gt;&quot;file.docx&quot;&lt;/code&gt; to &lt;code&gt;&quot;file.zip&quot;&lt;/code&gt; you can unzip it - it contains a bunch of folders and a bunch of XMLs.  So, a Word file contais both &lt;code&gt;&quot;PK&quot;&lt;/code&gt; indicatind that this is a Zip archive and &lt;code&gt;&quot;word/_rels&quot;&lt;/code&gt; indicating that this is a Word document. In this situation you should choose a pattern with higher priority - &lt;code&gt;&quot;MS Office Word 2007+&quot;&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;While developing your program you can use the attached file. It contains some patterns with different priorities sorted by their “accuracy” (for example, MSOffice 2007 documents store their data inside a zip archive, so the pattern for Office documents should be “stronger” than the pattern for zip archive).&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main patterns.db test_files&#10;test_filesdoc_0.doc: MS Office Word 2003&#10;doc_1.ppt: MS Office PowerPoint 2003&#10;file.zip: Zip archive&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/64/stages/346/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5488" />
+                      <option name="index" value="4" />
+                      <option name="name" value="A question of priorities" />
+                      <option name="record" value="4" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/Clue.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Clue.java" />
+                                <option name="text" value="&#10;public class Clue {&#10;    public String first;&#10;    public String second;&#10;    public String feedback;&#10;&#10;    public Clue(String first, String second, String feedback) {&#10;        this.first = first;&#10;        this.second = second;&#10;        this.feedback = feedback;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/MainTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/MainTest.java" />
+                                <option name="text" value="&#10;import analyzer.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import org.junit.AfterClass;&#10;import org.junit.Assert;&#10;import org.junit.BeforeClass;&#10;&#10;import java.io.File;&#10;import java.io.IOException;&#10;import java.lang.management.ManagementFactory;&#10;import java.nio.file.Files;&#10;import java.nio.file.Paths;&#10;import java.util.List;&#10;&#10;public class MainTest extends BaseStageTest&lt;Clue&gt; {&#10;    private static final String CURRENT_DIR = System.getProperty(&quot;user.dir&quot;) + File.separator;&#10;    &#10;    private static String testFolder = &quot;test_files&quot;;&#10;    private static String files = testFolder + File.separator;&#10;    &#10;    private static String patternsDb = &quot;patterns.db&quot;;&#10;    private static final String patterns =&#10;        &quot;1;\&quot;%PDF-\&quot;;\&quot;PDF document\&quot;\n&quot; +&#10;        &quot;2;\&quot;pmview\&quot;;\&quot;PCP pmview config\&quot;\n&quot; +&#10;        &quot;4;\&quot;PK\&quot;;\&quot;Zip archive\&quot;\n&quot; +&#10;        &quot;5;\&quot;vnd.oasis.opendocument.presentation\&quot;;\&quot;OpenDocument presentation\&quot;\n&quot; +&#10;        &quot;6;\&quot;W.o.r.d\&quot;;\&quot;MS Office Word 2003\&quot;\n&quot; +&#10;        &quot;6;\&quot;P.o.w.e.r.P.o.i\&quot;;\&quot;MS Office PowerPoint 2003\&quot;\n&quot; +&#10;        &quot;7;\&quot;word/_rels\&quot;;\&quot;MS Office Word 2007+\&quot;\n&quot; +&#10;        &quot;7;\&quot;ppt/_rels\&quot;;\&quot;MS Office PowerPoint 2007+\&quot;\n&quot; +&#10;        &quot;7;\&quot;xl/_rels\&quot;;\&quot;MS Office Excel 2007+\&quot;\n&quot; +&#10;        &quot;8;\&quot;-----BEGIN\\ CERTIFICATE-----\&quot;;\&quot;PEM certificate\&quot;\n&quot; +&#10;        &quot;9;\&quot;ftypjp2\&quot;;\&quot;ISO Media JPEG 2000\&quot;\n&quot; +&#10;        &quot;9;\&quot;ftypiso2\&quot;;\&quot;ISO Media MP4 Base Media v2\&quot;\n&quot;;&#10;&#10;&#10;    public MainTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            //Testing basic cases&#10;            //PDF&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;doc.pdf&quot;, &quot;PFDF%PDF-PDF&quot;)&#10;                .addFile(files + &quot;text.pdf&quot;, &quot;PFPDF-PDFABC&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;doc.pdf: PDF document&quot;,&#10;                    &quot;text.pdf: Unknown file type&quot;,&#10;                    &quot;Wrong answer for files with PDF documents&quot;)),&#10;&#10;            //Zip archive&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[] {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;doc.zip&quot;, &quot;PCK&quot;)&#10;                .addFile(files + &quot;doc1.zip&quot;, &quot;PKC&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;doc.zip: Unknown file type&quot; ,&#10;                    &quot;doc1.zip: Zip archive&quot;,&#10;                    &quot;Wrong answer for files with Zip archives&quot;)),&#10;&#10;            //PCP pmview config&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;main&quot;, &quot;pmview&quot;)&#10;                .addFile(files + &quot;main.config&quot;, &quot;pmconfigview&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;main: PCP pmview config&quot;,&#10;                    &quot;main.config: Unknown file type&quot;,&#10;                    &quot;Wrong answer for PCP pmview config files&quot;)),&#10;&#10;            //OpenDocument presentation&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;slides1.odp&quot;, &quot;vnd.oasis.opendocument.presentation&quot;)&#10;                .addFile(files + &quot;slides2.odp&quot;, &quot;vnd.oasis.microsoft.presentation&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;slides1.odp: OpenDocument presentation&quot;,&#10;                    &quot;slides2.odp: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //MS Office Word 2003&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;txt.doc&quot;, &quot;wwwwwwwwW.o.r.d&quot;)&#10;                .addFile(files + &quot;doc.txt&quot;, &quot;W.o.r.kwwwwwwww&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;doc.txt: Unknown file type&quot;,&#10;                    &quot;txt.doc: MS Office Word 2003&quot;,&#10;                    &quot;Wrong answer for Word 2003 files&quot;)),&#10;&#10;            //MS Office PowerPoint 2003&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;slides1.ptp&quot;, &quot;P.o.w.e.r.P.o.i&quot;)&#10;                .addFile(files + &quot;slides2.ptp&quot;, &quot;P.o.w.e.r.\\Sh.o.i&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;slides1.ptp: MS Office PowerPoint 2003&quot;,&#10;                    &quot;slides2.ptp: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //MS Office Word 2007+&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;txt.doc&quot;, &quot;\\word/_rels&quot;)&#10;                .addFile(files + &quot;doc.txt&quot;, &quot;word/\\_rels&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;doc.txt: Unknown file type&quot;,&#10;                    &quot;txt.doc: MS Office Word 2007+&quot;,&#10;                    &quot;Wrong answer for Word 2007+ files&quot;)),&#10;&#10;            //MS Office PowerPoint 2007+&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;pres1.pptx&quot;, &quot;afeefa%ppt/_relsasdad&quot;)&#10;                .addFile(files + &quot;pres2.pptx&quot;, &quot;ppasfsfafdaet/_rels&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;pres1.pptx: MS Office PowerPoint 2007+&quot;,&#10;                    &quot;pres2.pptx: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //MS Office Excel 2007+&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;sheet1.xls&quot;, &quot;asdaxl/_rels&quot;)&#10;                .addFile(files + &quot;sheet2.xls&quot;, &quot;x2/_reasdadls&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;sheet1.xls: MS Office Excel 2007+&quot;,&#10;                    &quot;sheet2.xls: Unknown file type&quot;,&#10;                    &quot;Wrong answer for Excel 2007+ files&quot;)),&#10;&#10;            //PEM certificate&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;cert.pem&quot;, &quot;\\\\\\\\\\aasdw-----BEGIN\\ CERTIFICATE-----&quot;)&#10;                .addFile(files + &quot;cert_core.pem&quot;, &quot;\\\\\\\\\\adww-----BEGIN\\CERTIFICATE-----&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;cert.pem: PEM certificate&quot;,&#10;                    &quot;cert_core.pem: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //ISO Media JPEG 2000&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;1.jpg&quot;, &quot;ftypjp2ddddddaa&quot;)&#10;                .addFile(files + &quot;2.jpg&quot;, &quot;ftypdddjp2dadad&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;1.jpg: ISO Media JPEG 2000&quot;,&#10;                    &quot;2.jpg: Unknown file type&quot;,&#10;                    &quot;Wrong answer for ISO Media JPEG 2000 files&quot;)),&#10;&#10;            //ISO Media MP4 Base Media v2&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;tape.jpg&quot;, &quot;ftypiso2mp4&quot;)&#10;                .addFile(files + &quot;tape.mp4&quot;, &quot;mp4ffttypiso2&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;tape.jpg: ISO Media MP4 Base Media v2&quot;,&#10;                    &quot;tape.mp4: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //Testing patterns priority&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;tape2.jpg&quot;, &quot;PK W.o.r.d&quot;)&#10;                .addFile(files + &quot;tape2.mp4&quot;, &quot;%PDF-mp4fftypiso2&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;tape2.jpg: MS Office Word 2003&quot;,&#10;                    &quot;tape2.mp4: ISO Media MP4 Base Media v2&quot;,&#10;                    &quot;Wrong answer white testing priority&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;tape3.jpg&quot;, &quot;-----BEGIN\\ CERTIFICATE-----pmview&quot;)&#10;                .addFile(files + &quot;tape3.mp4&quot;, &quot;%PDF-ftypppfW.o.r.dftypiso&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;tape3.jpg: PEM certificate&quot;,&#10;                    &quot;tape3.mp4: MS Office Word 2003&quot;,&#10;                    &quot;&quot;))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        String actual = reply.strip();&#10;&#10;        if (!actual.contains(clue.first)) {&#10;            return CheckResult.FALSE(&#10;                clue.feedback + &quot;\n\n&quot; +&#10;                    &quot;Cannot find a line &quot; + clue.first + &quot;\nYour output:\n&quot; + actual&#10;            );&#10;        }&#10;&#10;        if (!actual.contains(clue.second)) {&#10;            return CheckResult.FALSE(&#10;                clue.feedback + &quot;\n\n&quot; +&#10;                    &quot;Cannot find a line &quot; + clue.second + &quot;\nYour output:\n&quot; + actual&#10;            );&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;    @BeforeClass&#10;    public static void generateTestFilesDirectory() {&#10;&#10;        deleteTestFilesDirectory();&#10;&#10;        try {&#10;            Files.deleteIfExists(Paths.get(CURRENT_DIR + testFolder));&#10;        }&#10;        catch (IOException ex) {&#10;&#10;        }&#10;        try {&#10;            Files.createDirectory(Paths.get(CURRENT_DIR + testFolder));&#10;        }&#10;        catch (IOException ex) {&#10;&#10;        }&#10;    }&#10;&#10;&#10;    @AfterClass&#10;    public static void deleteTestFilesDirectory() {&#10;        try {&#10;            Files.deleteIfExists(Paths.get(CURRENT_DIR + testFolder));&#10;        }&#10;        catch (IOException ex) {&#10;&#10;&#10;        }&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/Main.java" />
+                                <option name="text" value="package analyzer;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/arguments/ArgumentsParser.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/arguments/ArgumentsParser.java" />
+                                <option name="text" value="package analyzer.arguments;&#10;&#10;public class ArgumentsParser {&#10;    public static Arguments parse(String[] args) {&#10;        if (args.length &lt; 3) {&#10;            throw new RuntimeException(&quot;Please provide all required arguments&quot;);&#10;        }&#10;&#10;        Arguments arguments = new Arguments();&#10;        arguments.setPattern(args[1]);&#10;        arguments.setExpectedResult(args[2]);&#10;        arguments.setFolder(args[0]);&#10;&#10;        return arguments;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Kmp.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/Kmp.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;public class Kmp implements SearchStrategy {&#10;&#10;    @Override&#10;    public boolean contains(String text, String pattern) {&#10;        return KMPSearch(text, pattern).size() &gt; 0;&#10;    }&#10;&#10;    private List&lt;Integer&gt; KMPSearch(String text, String pattern) {&#10;        /* 1 */&#10;        int[] prefixFunc = prefixFunction(pattern);&#10;        ArrayList&lt;Integer&gt; occurrences = new ArrayList&lt;Integer&gt;();&#10;        int j = 0;&#10;        /* 2 */&#10;        for (int i = 0; i &lt; text.length(); i++) {&#10;            /* 3 */&#10;            while (j &gt; 0 &amp;&amp; text.charAt(i) != pattern.charAt(j)) {&#10;                j = prefixFunc[j - 1];&#10;            }&#10;            /* 4 */&#10;            if (text.charAt(i) == pattern.charAt(j)) {&#10;                j += 1;&#10;            }&#10;            /* 5 */&#10;            if (j == pattern.length()) {&#10;                occurrences.add(i - j + 1);&#10;                j = prefixFunc[j - 1];&#10;            }&#10;        }&#10;        /* 6 */&#10;        return occurrences;&#10;    }&#10;&#10;    private int[] prefixFunction(String str) {&#10;        /* 1 */&#10;        int[] prefixFunc = new int[str.length()];&#10;&#10;        /* 2 */&#10;        for (int i = 1; i &lt; str.length(); i++) {&#10;            /* 3 */&#10;            int j = prefixFunc[i - 1];&#10;&#10;            while (j &gt; 0 &amp;&amp; str.charAt(i) != str.charAt(j)) {&#10;                j = prefixFunc[j - 1];&#10;            }&#10;&#10;            /* 4 */&#10;            if (str.charAt(i) == str.charAt(j)) {&#10;                j += 1;&#10;            }&#10;&#10;            /* 5 */&#10;            prefixFunc[i] = j;&#10;        }&#10;&#10;        /* 6 */&#10;        return prefixFunc;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Naive.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/Naive.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;public class Naive implements SearchStrategy {&#10;    @Override&#10;    public boolean contains(String text, String pattern) {&#10;        if (text.length() &lt; pattern.length()) {&#10;            return false;&#10;        }&#10;&#10;        for (int i = 0; i &lt; text.length() - pattern.length() + 1; i++) {&#10;            boolean patternIsFound = true;&#10;&#10;            for (int j = 0; j &lt; pattern.length(); j++) {&#10;                if (text.charAt(i + j) != pattern.charAt(j)) {&#10;                    patternIsFound = false;&#10;                    break;&#10;                }&#10;            }&#10;&#10;            if (patternIsFound) {&#10;                return true;&#10;            }&#10;        }&#10;&#10;        return false;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Resolver.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/strategy/Resolver.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;import analyzer.arguments.Arguments;&#10;&#10;public class Resolver {&#10;    public static SearchStrategy resolve(Arguments arguments) {&#10;        if (&quot;--KMP&quot;.equals(arguments.getAlgorithm())) {&#10;            return new Kmp();&#10;        }&#10;&#10;        return new Naive();&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/arguments/Arguments.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/arguments/Arguments.java" />
+                                <option name="text" value="package analyzer.arguments;&#10;&#10;public class Arguments {&#10;    private String algorithm;&#10;&#10;    private String filePath;&#10;&#10;    private String pattern;&#10;&#10;    private String expectedResult;&#10;&#10;    private String folder;&#10;&#10;    public String getAlgorithm() {&#10;        return algorithm;&#10;    }&#10;&#10;    public void setAlgorithm(String algorithm) {&#10;        this.algorithm = algorithm;&#10;    }&#10;&#10;    public String getFilePath() {&#10;        return filePath;&#10;    }&#10;&#10;    public void setFilePath(String filePath) {&#10;        this.filePath = filePath;&#10;    }&#10;&#10;    public String getPattern() {&#10;        return pattern;&#10;    }&#10;&#10;    public void setPattern(String pattern) {&#10;        this.pattern = pattern;&#10;    }&#10;&#10;    public String getExpectedResult() {&#10;        return expectedResult;&#10;    }&#10;&#10;    public void setExpectedResult(String expectedResult) {&#10;        this.expectedResult = expectedResult;&#10;    }&#10;&#10;    public String getFolder() {&#10;        return folder;&#10;    }&#10;&#10;    public void setFolder(String folder) {&#10;        this.folder = folder;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/SearchStrategy.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/SearchStrategy.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;public interface SearchStrategy {&#10;    public boolean contains(String text, String pattern);&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/pattern/Pattern.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/pattern/Pattern.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/taskManager/TaskManager.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/taskManager/TaskManager.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1568217732000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;The sequential pattern match is a serious bottleneck even if we use an advanced single pattern searching algorithm. Use the Rabin-Karp algorithm to make a multiple pattern matcher and make your checker show the best performance.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main patterns.db test_files&#10;doc_0.doc: MS Office Word 2003&#10;doc_1.pptx: MS Office PowerPoint 2007+&#10;doc_2.pdf: PDF document&#10;file.pem: PEM certificate&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/64/stages/347/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5489" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Rabin-Karp" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/MainTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/MainTest.java" />
+                                <option name="text" value="&#10;import analyzer.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import org.junit.AfterClass;&#10;import org.junit.Assert;&#10;import org.junit.BeforeClass;&#10;&#10;import java.io.File;&#10;import java.io.IOException;&#10;import java.lang.management.ManagementFactory;&#10;import java.nio.file.Files;&#10;import java.nio.file.Paths;&#10;import java.util.List;&#10;&#10;public class MainTest extends BaseStageTest&lt;Clue&gt; {&#10;    private static final String CURRENT_DIR = System.getProperty(&quot;user.dir&quot;) + File.separator;&#10;&#10;    private static String testFolder = &quot;test_files&quot;;&#10;    private static String files = testFolder + File.separator;&#10;&#10;    private static String patternsDb = &quot;patterns.db&quot;;&#10;    private static final String patterns =&#10;        &quot;1;\&quot;%PDF-\&quot;;\&quot;PDF document\&quot;\n&quot; +&#10;            &quot;2;\&quot;pmview\&quot;;\&quot;PCP pmview config\&quot;\n&quot; +&#10;            &quot;4;\&quot;PK\&quot;;\&quot;Zip archive\&quot;\n&quot; +&#10;            &quot;5;\&quot;vnd.oasis.opendocument.presentation\&quot;;\&quot;OpenDocument presentation\&quot;\n&quot; +&#10;            &quot;6;\&quot;W.o.r.d\&quot;;\&quot;MS Office Word 2003\&quot;\n&quot; +&#10;            &quot;6;\&quot;P.o.w.e.r.P.o.i\&quot;;\&quot;MS Office PowerPoint 2003\&quot;\n&quot; +&#10;            &quot;7;\&quot;word/_rels\&quot;;\&quot;MS Office Word 2007+\&quot;\n&quot; +&#10;            &quot;7;\&quot;ppt/_rels\&quot;;\&quot;MS Office PowerPoint 2007+\&quot;\n&quot; +&#10;            &quot;7;\&quot;xl/_rels\&quot;;\&quot;MS Office Excel 2007+\&quot;\n&quot; +&#10;            &quot;8;\&quot;-----BEGIN\\ CERTIFICATE-----\&quot;;\&quot;PEM certificate\&quot;\n&quot; +&#10;            &quot;9;\&quot;ftypjp2\&quot;;\&quot;ISO Media JPEG 2000\&quot;\n&quot; +&#10;            &quot;9;\&quot;ftypiso2\&quot;;\&quot;ISO Media MP4 Base Media v2\&quot;\n&quot;;&#10;&#10;&#10;    public MainTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            //Testing basic cases&#10;            //PDF&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;doc.pdf&quot;, &quot;PFDF%PDF-PDF&quot;)&#10;                .addFile(files + &quot;text.pdf&quot;, &quot;PFPDF-PDFABC&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;doc.pdf: PDF document&quot;,&#10;                    &quot;text.pdf: Unknown file type&quot;,&#10;                    &quot;Wrong answer for files with PDF documents&quot;)),&#10;&#10;            //Zip archive&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[] {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;doc.zip&quot;, &quot;PCK&quot;)&#10;                .addFile(files + &quot;doc1.zip&quot;, &quot;PKC&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;doc.zip: Unknown file type&quot; ,&#10;                    &quot;doc1.zip: Zip archive&quot;,&#10;                    &quot;Wrong answer for files with Zip archives&quot;)),&#10;&#10;            //PCP pmview config&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;main&quot;, &quot;pmview&quot;)&#10;                .addFile(files + &quot;main.config&quot;, &quot;pmconfigview&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;main: PCP pmview config&quot;,&#10;                    &quot;main.config: Unknown file type&quot;,&#10;                    &quot;Wrong answer for PCP pmview config files&quot;)),&#10;&#10;            //OpenDocument presentation&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;slides1.odp&quot;, &quot;vnd.oasis.opendocument.presentation&quot;)&#10;                .addFile(files + &quot;slides2.odp&quot;, &quot;vnd.oasis.microsoft.presentation&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;slides1.odp: OpenDocument presentation&quot;,&#10;                    &quot;slides2.odp: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //MS Office Word 2003&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;txt.doc&quot;, &quot;wwwwwwwwW.o.r.d&quot;)&#10;                .addFile(files + &quot;doc.txt&quot;, &quot;W.o.r.kwwwwwwww&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;doc.txt: Unknown file type&quot;,&#10;                    &quot;txt.doc: MS Office Word 2003&quot;,&#10;                    &quot;Wrong answer for Word 2003 files&quot;)),&#10;&#10;            //MS Office PowerPoint 2003&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;slides1.ptp&quot;, &quot;P.o.w.e.r.P.o.i&quot;)&#10;                .addFile(files + &quot;slides2.ptp&quot;, &quot;P.o.w.e.r.\\Sh.o.i&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;slides1.ptp: MS Office PowerPoint 2003&quot;,&#10;                    &quot;slides2.ptp: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //MS Office Word 2007+&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;txt.doc&quot;, &quot;\\word/_rels&quot;)&#10;                .addFile(files + &quot;doc.txt&quot;, &quot;word/\\_rels&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;doc.txt: Unknown file type&quot;,&#10;                    &quot;txt.doc: MS Office Word 2007+&quot;,&#10;                    &quot;Wrong answer for Word 2007+ files&quot;)),&#10;&#10;            //MS Office PowerPoint 2007+&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;pres1.pptx&quot;, &quot;afeefa%ppt/_relsasdad&quot;)&#10;                .addFile(files + &quot;pres2.pptx&quot;, &quot;ppasfsfafdaet/_rels&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;pres1.pptx: MS Office PowerPoint 2007+&quot;,&#10;                    &quot;pres2.pptx: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //MS Office Excel 2007+&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;sheet1.xls&quot;, &quot;asdaxl/_rels&quot;)&#10;                .addFile(files + &quot;sheet2.xls&quot;, &quot;x2/_reasdadls&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;sheet1.xls: MS Office Excel 2007+&quot;,&#10;                    &quot;sheet2.xls: Unknown file type&quot;,&#10;                    &quot;Wrong answer for Excel 2007+ files&quot;)),&#10;&#10;            //PEM certificate&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;cert.pem&quot;, &quot;\\\\\\\\\\aasdw-----BEGIN\\ CERTIFICATE-----&quot;)&#10;                .addFile(files + &quot;cert_core.pem&quot;, &quot;\\\\\\\\\\adww-----BEGIN\\CERTIFICATE-----&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;cert.pem: PEM certificate&quot;,&#10;                    &quot;cert_core.pem: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //ISO Media JPEG 2000&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;1.jpg&quot;, &quot;ftypjp2ddddddaa&quot;)&#10;                .addFile(files + &quot;2.jpg&quot;, &quot;ftypdddjp2dadad&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;1.jpg: ISO Media JPEG 2000&quot;,&#10;                    &quot;2.jpg: Unknown file type&quot;,&#10;                    &quot;Wrong answer for ISO Media JPEG 2000 files&quot;)),&#10;&#10;            //ISO Media MP4 Base Media v2&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;tape.jpg&quot;, &quot;ftypiso2mp4&quot;)&#10;                .addFile(files + &quot;tape.mp4&quot;, &quot;mp4ffttypiso2&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;tape.jpg: ISO Media MP4 Base Media v2&quot;,&#10;                    &quot;tape.mp4: Unknown file type&quot;,&#10;                    &quot;&quot;)),&#10;&#10;            //Testing patterns priority&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;tape2.jpg&quot;, &quot;PK W.o.r.d&quot;)&#10;                .addFile(files + &quot;tape2.mp4&quot;, &quot;%PDF-mp4fftypiso2&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;tape2.jpg: MS Office Word 2003&quot;,&#10;                    &quot;tape2.mp4: ISO Media MP4 Base Media v2&quot;,&#10;                    &quot;Wrong answer white testing priority&quot;)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .addArguments(new String[]&#10;                    {testFolder, patternsDb})&#10;                .addFile(patternsDb, patterns)&#10;                .addFile(files + &quot;tape3.jpg&quot;, &quot;-----BEGIN\\ CERTIFICATE-----pmview&quot;)&#10;                .addFile(files + &quot;tape3.mp4&quot;, &quot;%PDF-ftypppfW.o.r.dftypiso&quot;)&#10;                .setAttach(new Clue(&#10;                    &quot;tape3.jpg: PEM certificate&quot;,&#10;                    &quot;tape3.mp4: MS Office Word 2003&quot;,&#10;                    &quot;&quot;))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        String actual = reply.strip();&#10;&#10;        if (!actual.contains(clue.first)) {&#10;            return CheckResult.FALSE(&#10;                clue.feedback + &quot;\n\n&quot; +&#10;                    &quot;Cannot find a line &quot; + clue.first + &quot;\nYour output:\n&quot; + actual&#10;            );&#10;        }&#10;&#10;        if (!actual.contains(clue.second)) {&#10;            return CheckResult.FALSE(&#10;                clue.feedback + &quot;\n\n&quot; +&#10;                    &quot;Cannot find a line &quot; + clue.second + &quot;\nYour output:\n&quot; + actual&#10;            );&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;    @BeforeClass&#10;    public static void generateTestFilesDirectory() {&#10;&#10;        deleteTestFilesDirectory();&#10;&#10;        try {&#10;            Files.deleteIfExists(Paths.get(CURRENT_DIR + testFolder));&#10;        }&#10;        catch (IOException ex) {&#10;&#10;        }&#10;        try {&#10;            Files.createDirectory(Paths.get(CURRENT_DIR + testFolder));&#10;        }&#10;        catch (IOException ex) {&#10;&#10;        }&#10;    }&#10;&#10;&#10;    @AfterClass&#10;    public static void deleteTestFilesDirectory() {&#10;        try {&#10;            Files.deleteIfExists(Paths.get(CURRENT_DIR + testFolder));&#10;        }&#10;        catch (IOException ex) {&#10;&#10;&#10;        }&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/Clue.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/Clue.java" />
+                                <option name="text" value="&#10;public class Clue {&#10;    public String first;&#10;    public String second;&#10;    public String feedback;&#10;&#10;    public Clue(String first, String second, String feedback) {&#10;        this.first = first;&#10;        this.second = second;&#10;        this.feedback = feedback;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/Main.java" />
+                                <option name="text" value="package analyzer;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/arguments/ArgumentsParser.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/arguments/ArgumentsParser.java" />
+                                <option name="text" value="package analyzer.arguments;&#10;&#10;public class ArgumentsParser {&#10;    public static Arguments parse(String[] args) {&#10;        if (args.length &lt; 2) {&#10;            throw new RuntimeException(&quot;Please provide all required arguments&quot;);&#10;        }&#10;&#10;        Arguments arguments = new Arguments();&#10;        arguments.setFilesFolder(args[0]);&#10;        arguments.setPatternsPath(args[1]);&#10;&#10;        return arguments;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/pattern/Pattern.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/pattern/Pattern.java" />
+                                <option name="text" value="package analyzer.pattern;&#10;&#10;public class Pattern {&#10;    private int priority;&#10;&#10;    private String pattern;&#10;&#10;    private String type;&#10;&#10;    public Pattern(int priority, String pattern, String type) {&#10;        this.priority = priority;&#10;        this.pattern = pattern;&#10;        this.type = type;&#10;    }&#10;&#10;    public int getPriority() {&#10;        return priority;&#10;    }&#10;&#10;    public String getPattern() {&#10;        return pattern;&#10;    }&#10;&#10;    public String getType() {&#10;        return type;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Kmp.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/Kmp.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;public class Kmp implements SearchStrategy {&#10;&#10;    @Override&#10;    public boolean contains(String text, String pattern) {&#10;        return KMPSearch(text, pattern).size() &gt; 0;&#10;    }&#10;&#10;    private List&lt;Integer&gt; KMPSearch(String text, String pattern) {&#10;        /* 1 */&#10;        int[] prefixFunc = prefixFunction(pattern);&#10;        ArrayList&lt;Integer&gt; occurrences = new ArrayList&lt;Integer&gt;();&#10;        int j = 0;&#10;        /* 2 */&#10;        for (int i = 0; i &lt; text.length(); i++) {&#10;            /* 3 */&#10;            while (j &gt; 0 &amp;&amp; text.charAt(i) != pattern.charAt(j)) {&#10;                j = prefixFunc[j - 1];&#10;            }&#10;            /* 4 */&#10;            if (text.charAt(i) == pattern.charAt(j)) {&#10;                j += 1;&#10;            }&#10;            /* 5 */&#10;            if (j == pattern.length()) {&#10;                occurrences.add(i - j + 1);&#10;                j = prefixFunc[j - 1];&#10;            }&#10;        }&#10;        /* 6 */&#10;        return occurrences;&#10;    }&#10;&#10;    private int[] prefixFunction(String str) {&#10;        /* 1 */&#10;        int[] prefixFunc = new int[str.length()];&#10;&#10;        /* 2 */&#10;        for (int i = 1; i &lt; str.length(); i++) {&#10;            /* 3 */&#10;            int j = prefixFunc[i - 1];&#10;&#10;            while (j &gt; 0 &amp;&amp; str.charAt(i) != str.charAt(j)) {&#10;                j = prefixFunc[j - 1];&#10;            }&#10;&#10;            /* 4 */&#10;            if (str.charAt(i) == str.charAt(j)) {&#10;                j += 1;&#10;            }&#10;&#10;            /* 5 */&#10;            prefixFunc[i] = j;&#10;        }&#10;&#10;        /* 6 */&#10;        return prefixFunc;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/taskManager/TaskManager.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/taskManager/TaskManager.java" />
+                                <option name="text" value="package analyzer.taskManager;&#10;&#10;import analyzer.pattern.Pattern;&#10;import analyzer.strategy.SearchStrategy;&#10;&#10;import java.io.IOException;&#10;import java.nio.file.Files;&#10;import java.nio.file.Path;&#10;import java.util.Comparator;&#10;import java.util.List;&#10;&#10;public class TaskManager {&#10;    public static Runnable getFileTypeResolvingTask(SearchStrategy strategy, Path path, List&lt;Pattern&gt; patterns) {&#10;        return&#10;            () -&gt; {&#10;                try {&#10;                    String text = new String(Files.readAllBytes(path));&#10;&#10;                    patterns.sort(Comparator.comparingInt(Pattern::getPriority).reversed());&#10;&#10;                    boolean fileTypeDefined = false;&#10;                    for (Pattern pattern: patterns) {&#10;                        if (strategy.contains(text, pattern.getPattern())) {&#10;                            fileTypeDefined = true;&#10;&#10;                            System.out.println(path.getFileName().toString() + &quot;: &quot; + pattern.getType());&#10;                            break;&#10;                        }&#10;                    }&#10;&#10;                    if (!fileTypeDefined) {&#10;                        System.out.println(path.getFileName().toString() + &quot;: &quot; + &quot;Unknown file type&quot;);&#10;                    }&#10;                } catch (IOException ex) {&#10;                    ex.printStackTrace();&#10;                }&#10;            };&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Naive.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/Naive.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;public class Naive implements SearchStrategy {&#10;    @Override&#10;    public boolean contains(String text, String pattern) {&#10;        if (text.length() &lt; pattern.length()) {&#10;            return false;&#10;        }&#10;&#10;        for (int i = 0; i &lt; text.length() - pattern.length() + 1; i++) {&#10;            boolean patternIsFound = true;&#10;&#10;            for (int j = 0; j &lt; pattern.length(); j++) {&#10;                if (text.charAt(i + j) != pattern.charAt(j)) {&#10;                    patternIsFound = false;&#10;                    break;&#10;                }&#10;            }&#10;&#10;            if (patternIsFound) {&#10;                return true;&#10;            }&#10;        }&#10;&#10;        return false;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/Resolver.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/strategy/Resolver.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;import analyzer.arguments.Arguments;&#10;&#10;public class Resolver {&#10;    public static SearchStrategy resolve(Arguments arguments) {&#10;        return new Kmp();&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/arguments/Arguments.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/arguments/Arguments.java" />
+                                <option name="text" value="package analyzer.arguments;&#10;&#10;public class Arguments {&#10;&#10;    private String filesFolder;&#10;&#10;    private String patternsPath;&#10;&#10;    public String getFilesFolder() {&#10;        return filesFolder;&#10;    }&#10;&#10;    public void setFilesFolder(String filesFolder) {&#10;        this.filesFolder = filesFolder;&#10;    }&#10;&#10;    public String getPatternsPath() {&#10;        return patternsPath;&#10;    }&#10;&#10;    public void setPatternsPath(String patternsPath) {&#10;        this.patternsPath = patternsPath;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/SearchStrategy.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/analyzer/strategy/SearchStrategy.java" />
+                                <option name="text" value="package analyzer.strategy;&#10;&#10;public interface SearchStrategy {&#10;    public boolean contains(String text, String pattern);&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/strategy/RabinKarp.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/strategy/RabinKarp.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/pattern/PatternListManager.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/pattern/PatternListManager.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/analyzer/pattern/PatternListManagerInterface.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/analyzer/pattern/PatternListManagerInterface.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1568217733000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>

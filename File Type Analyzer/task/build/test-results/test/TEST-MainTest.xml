@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-23T19:15:53" hostname="vladimir-hp" time="0.581">
+  <properties/>
+  <testcase name="start" classname="MainTest" time="0.581"/>
+  <system-out><![CDATA[/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+text.pdf: Unknown file type
+doc.pdf: PDF document
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+doc.zip: Unknown file type
+doc1.zip: Zip archive
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+main: PCP pmview config
+main.config: Unknown file type
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+slides2.odp: Unknown file type
+slides1.odp: OpenDocument presentation
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+doc.txt: Unknown file type
+txt.doc: MS Office Word 2003
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+slides2.ptp: Unknown file type
+slides1.ptp: MS Office PowerPoint 2003
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+doc.txt: Unknown file type
+txt.doc: MS Office Word 2007+
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+pres1.pptx: MS Office PowerPoint 2007+
+pres2.pptx: Unknown file type
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+sheet1.xls: MS Office Excel 2007+
+sheet2.xls: Unknown file type
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+cert.pem: PEM certificate
+cert_core.pem: Unknown file type
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+1.jpg: ISO Media JPEG 2000
+2.jpg: Unknown file type
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+tape.jpg: ISO Media MP4 Base Media v2
+tape.mp4: Unknown file type
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+tape2.jpg: MS Office Word 2003
+tape2.mp4: ISO Media MP4 Base Media v2
+/home/vsmirnov/edu/java/projects/hyerskill/FileTypeAnalizer/File Type Analyzer/task/
+tape3.jpg: PEM certificate
+tape3.mp4: MS Office Word 2003
+]]></system-out>
+  <system-err><![CDATA[Start test 1
+Start test 2
+Start test 3
+Start test 4
+Start test 5
+Start test 6
+Start test 7
+Start test 8
+Start test 9
+Start test 10
+Start test 11
+Start test 12
+Start test 13
+Start test 14
+]]></system-err>
+</testsuite>
